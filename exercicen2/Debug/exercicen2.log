@@ -1,0 +1,9 @@
+﻿  main2.c
+  tab2.c
+C:\Users\elise\source\repos\TP5\exercicen2\tab2.c(60,1): warning C4010: un commentaire sur une seule ligne comporte un caractère de continuation de ligne
+C:\Users\elise\source\repos\TP5\exercicen2\tab2.c(104,50): warning C4047: 'return' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+  Génération de code en cours...
+C:\Users\elise\source\repos\TP5\exercicen2\tab2.c(12): warning C4715: 'init' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\elise\source\repos\TP5\exercicen2\tab2.c(54): warning C4715: 'afficheTab' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\elise\source\repos\TP5\exercicen2\tab2.c(109): warning C4715: 'fillTabuntilN' : les chemins de contrôle ne retournent pas tous une valeur
+  exercicen2.vcxproj -> C:\Users\elise\source\repos\TP5\Debug\exercicen2.exe
