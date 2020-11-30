@@ -19,11 +19,12 @@ int main() {
 
 	setElement(&firstTab, 20, 6);
 	setElement(&firstTab, 12, 0);
+	setElement(&firstTab, 16, 8);
 
-	//deleteElements(&firstTab, 2, 15);
+	deleteElements(&firstTab, 24, 17);
 
 	displayElements(&firstTab, 1, firstTab.size);
-	//afficheTab(firstTab.elt, firstTab.size, firstTab.size);
+	
 
 	printf("\n\nla taille du tableau est: %d\n\nil y a %d elements\n\n", firstTab.size, firstTab.eltsCount);
 

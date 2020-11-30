@@ -52,7 +52,7 @@ int afficheTab(int* tab, int size, int nbElts) {
 		printf("%d ", tab[i]);
 	}
 }
-/// \\\
+    /// \\\
    /// | \\\
   ///  |  \\\
  ///   |   \\\
